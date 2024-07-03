@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Dati da "config/data.php": {{ $home }}</h1>
-    <p>This is my paragraph content.</p>
+	<div class="container">
+		<h1>QUESTA E` LA MIA HOMPAGE</h1>
+	</div>
 @endsection
